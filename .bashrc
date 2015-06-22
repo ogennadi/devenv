@@ -28,4 +28,3 @@ alias install="sudo apt-get install"
 alias remove="sudo apt-get remove"
 alias show="apt-cache show"
 alias search="apt-cache search"
-
