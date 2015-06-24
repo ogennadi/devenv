@@ -1,5 +1,6 @@
 .ICEauthority
 .Xauthority
+.aptitude/
 .bash/
 .bash_history
 .bash_logout
@@ -24,4 +25,4 @@
 .xsession-errors
 Downloads/
 code/
-
+tmp/

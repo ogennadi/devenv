@@ -9,3 +9,14 @@
     ```
     git clone https://github.com/jimeh/git-aware-prompt
     ```
+* Install packages from packages.txt 
+
+
+## At the end of each day
+* Go to the home directory
+* Run the following to save installed packages to a file
+    ```
+    aptitude search -F '%p' '~i!~M' > packages.txt
+    ```
+* Check in packages.txt and any other dotfiles that changed
+ 
