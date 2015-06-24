@@ -1746,6 +1746,7 @@ pcmciautils
 perl                                                                            
 perl-base                                                                       
 perl-modules                                                                    
+pgadmin3                                                                        
 pidgin                                                                          
 pidgin-data                                                                     
 pidgin-libnotify                                                                
