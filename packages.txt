@@ -1841,6 +1841,7 @@ python-paramiko
 python-parted                                                                   
 python-pexpect                                                                  
 python-pil                                                                      
+python-pip                                                                      
 python-piston-mini-client                                                       
 python-pkg-resources                                                            
 python-protobuf                                                                 
