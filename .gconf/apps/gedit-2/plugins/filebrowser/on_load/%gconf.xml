@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="virtual_root" mtime="1435686776" type="string">
+		<stringvalue>file:///home/oge/Downloads/IGV_2.3.57</stringvalue>
+	</entry>
+	<entry name="root" mtime="1435686776" type="string">
+		<stringvalue>file:///</stringvalue>
+	</entry>
+	<entry name="tree_view" mtime="1435686776" type="bool" value="true"/>
+</gconf>
