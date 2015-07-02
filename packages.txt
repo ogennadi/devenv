@@ -1,4 +1,5 @@
 accountsservice                                                                 
+ack-grep                                                                        
 acl                                                                             
 acpi-support                                                                    
 acpid                                                                           
@@ -1949,7 +1950,6 @@ signon-plugin-oauth2
 signon-plugin-password                                                          
 signon-ui                                                                       
 signond                                                                         
-silversearcher-ag                                                               
 simple-scan                                                                     
 smbclient                                                                       
 sni-qt                                                                          
