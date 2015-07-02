@@ -15,7 +15,7 @@
 	<entry name="new_window" mtime="1434997843" type="string">
 		<stringvalue>&lt;Primary&gt;n</stringvalue>
 	</entry>
-	<entry name="new_tab" mtime="1434997838" type="string">
-		<stringvalue>&lt;Primary&gt;t</stringvalue>
+	<entry name="new_tab" mtime="1435791551" type="string">
+		<stringvalue>&lt;Primary&gt;&lt;Shift&gt;t</stringvalue>
 	</entry>
 </gconf>
