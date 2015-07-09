@@ -13,6 +13,7 @@ Downloads/
 .pip/
 .pgpass
 .pgadmin_histoqueries
+.pgadmin3
 .pam_environment
 .mozilla/
 .m2/
