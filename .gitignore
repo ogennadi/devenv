@@ -15,6 +15,7 @@ Downloads/
 .pgadmin_histoqueries
 .pgadmin3
 .pam_environment
+.mysql
 .mozilla/
 .m2/
 .local/
@@ -24,6 +25,7 @@ Downloads/
 .gnome2/
 .gksu.lock
 .gitconfig
+.gconf/
 .dmrc
 .dbus/
 .config/

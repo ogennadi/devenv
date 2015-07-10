@@ -11,6 +11,10 @@
     ```
 * Install packages from packages.txt 
 
+* If you're in a VMWare virtual machine, mount the code directory
+    ```
+    sudo mount --bind /mnt/hgfs/code/ code
+    ```
 
 ## At the end of each day
 * Go to the home directory

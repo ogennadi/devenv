@@ -50,6 +50,7 @@ brasero-common
 brltty                                                                          
 bsdmainutils                                                                    
 bsdutils                                                                        
+build-essential                                                                 
 busybox-initramfs                                                               
 busybox-static                                                                  
 bzip2                                                                           
@@ -1699,8 +1700,10 @@ mtools
 mtr-tiny                                                                        
 muffin-common                                                                   
 multiarch-support                                                               
+mysql-workbench                                                                 
 nano                                                                            
 nautilus-data                                                                   
+ncbi-blast+                                                                     
 ncurses-base                                                                    
 ncurses-bin                                                                     
 ndiswrapper-common                                                              
