@@ -1721,7 +1721,9 @@ network-manager
 network-manager-gnome                                                           
 network-manager-pptp                                                            
 network-manager-pptp-gnome                                                      
+nodejs                                                                          
 notification-daemon                                                             
+npm                                                                             
 ntfs-3g                                                                         
 ntpdate                                                                         
 nux-tools                                                                       
