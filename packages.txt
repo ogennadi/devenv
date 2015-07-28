@@ -103,6 +103,7 @@ cups-filters-core-drivers
 cups-pk-helper                                                                  
 cups-ppdc                                                                       
 cups-server-common                                                              
+curl                                                                            
 dash                                                                            
 dbus                                                                            
 dbus-x11                                                                        
@@ -285,6 +286,7 @@ gir1.2-webkit-3.0
 gir1.2-wnck-3.0                                                                 
 gir1.2-xkl-1.0                                                                  
 git                                                                             
+git-core                                                                        
 gkbd-capplet                                                                    
 gksu                                                                            
 glib-networking                                                                 
@@ -609,6 +611,7 @@ libcupsmime1
 libcupsppdc1                                                                    
 libcurl3:i386                                                                   
 libcurl3-gnutls                                                                 
+libcurl4-openssl-dev                                                            
 libcwidget3                                                                     
 libdaemon0                                                                      
 libdatrie1                                                                      
@@ -696,6 +699,7 @@ libfaac0
 libfaad2                                                                        
 libfakeroot                                                                     
 libfarstream-0.1-0                                                              
+libffi-dev                                                                      
 libffi6                                                                         
 libffi6:i386                                                                    
 libfftw3-double3                                                                
@@ -1262,6 +1266,7 @@ librasqal3
 libraw1394-11                                                                   
 libraw1394-11:i386                                                              
 librdf0                                                                         
+libreadline-dev                                                                 
 libreadline5                                                                    
 libreadline6                                                                    
 libreadline6:i386                                                               
@@ -1366,9 +1371,11 @@ libspeexdsp1:i386
 libspice-server1                                                                
 libsqlite3-0                                                                    
 libsqlite3-0:i386                                                               
+libsqlite3-dev                                                                  
 libsrtp0                                                                        
 libss2                                                                          
 libssh2-1                                                                       
+libssl-dev                                                                      
 libssl0.9.8:i386                                                                
 libssl1.0.0                                                                     
 libssl1.0.0:i386                                                                
@@ -1565,6 +1572,7 @@ libxkbfile1
 libxklavier16                                                                   
 libxml2                                                                         
 libxml2:i386                                                                    
+libxml2-dev                                                                     
 libxmu6                                                                         
 libxmu6:i386                                                                    
 libxmuu1                                                                        
@@ -1578,6 +1586,7 @@ libxrender1:i386
 libxres1                                                                        
 libxshmfence1                                                                   
 libxshmfence1:i386                                                              
+libxslt1-dev                                                                    
 libxslt1.1                                                                      
 libxslt1.1:i386                                                                 
 libxss1                                                                         
@@ -1595,6 +1604,7 @@ libxxf86dga1
 libxxf86vm1                                                                     
 libxxf86vm1:i386                                                                
 libyajl2                                                                        
+libyaml-dev                                                                     
 libyaml-tiny-perl                                                               
 libyelp0                                                                        
 libzbar0                                                                        
@@ -1722,6 +1732,7 @@ network-manager-gnome
 network-manager-pptp                                                            
 network-manager-pptp-gnome                                                      
 nodejs                                                                          
+nodejs-legacy                                                                   
 notification-daemon                                                             
 npm                                                                             
 ntfs-3g                                                                         
@@ -1867,6 +1878,7 @@ python-sexy
 python-sip                                                                      
 python-six                                                                      
 python-smbc                                                                     
+python-software-properties                                                      
 python-support                                                                  
 python-talloc                                                                   
 python-tdb                                                                      
@@ -1962,6 +1974,7 @@ sound-theme-freedesktop
 sox                                                                             
 speech-dispatcher                                                               
 speech-dispatcher-audio-plugins                                                 
+sqlite3                                                                         
 ssh-askpass-gnome                                                               
 ssl-cert                                                                        
 strace                                                                          
@@ -2125,3 +2138,4 @@ zenity-common
 zip                                                                             
 zlib1g                                                                          
 zlib1g:i386                                                                     
+zlib1g-dev                                                                      

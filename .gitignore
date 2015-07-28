@@ -8,6 +8,7 @@ Downloads/
 .viminfo
 .vim/
 .ssh/
+.rbenv/
 .profile
 .pki/
 .pip/
@@ -27,6 +28,7 @@ Downloads/
 .gnome/
 .gksu.lock
 .gitconfig
+.gem/
 .gconf/
 .dmrc
 .dbus/
