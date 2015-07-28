@@ -1968,6 +1968,7 @@ signon-plugin-password
 signon-ui                                                                       
 signond                                                                         
 simple-scan                                                                     
+sloccount                                                                       
 smbclient                                                                       
 sni-qt                                                                          
 sound-theme-freedesktop                                                         

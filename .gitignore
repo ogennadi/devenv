@@ -8,6 +8,7 @@ Downloads/
 .viminfo
 .vim/
 .ssh/
+.slocdata/
 .rbenv/
 .profile
 .pki/
@@ -35,6 +36,7 @@ Downloads/
 .config/
 .cinnamon/
 .cache/
+.byebug_hist
 .bash_logout
 .bash_history
 .bash/
