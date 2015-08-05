@@ -1933,6 +1933,7 @@ python3-xkit
 python3.4                                                                       
 python3.4-minimal                                                               
 qdbus                                                                           
+qgis                                                                            
 qpdf                                                                            
 qt-at-spi                                                                       
 qtchooser                                                                       
