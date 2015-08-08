@@ -1963,6 +1963,7 @@ sessioninstaller
 sgml-base                                                                       
 sgml-data                                                                       
 shared-mime-info                                                                
+shutter                                                                         
 signon-keyring-extension                                                        
 signon-plugin-oauth2                                                            
 signon-plugin-password                                                          
