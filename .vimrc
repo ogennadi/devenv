@@ -8,5 +8,7 @@ set incsearch
 set ignorecase
 set smartcase
 
-set backupdir=/tmp//
-set directory=/tmp//
+set backupdir=/tmp/
+set directory=/tmp/
+set undofile
+set undodir=~/.vim/undodir

@@ -1777,6 +1777,8 @@ policykit-1-gnome
 policykit-desktop-privileges                                                    
 poppler-data                                                                    
 poppler-utils                                                                   
+postgresql                                                                      
+postgresql-contrib                                                              
 powermgmt-base                                                                  
 ppp                                                                             
 pppconfig                                                                       
