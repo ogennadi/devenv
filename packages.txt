@@ -320,6 +320,7 @@ gnome-themes-standard
 gnome-themes-standard-data                                                      
 gnome-user-share                                                                
 gnupg                                                                           
+gparted                                                                         
 gpgv                                                                            
 grep                                                                            
 groff-base                                                                      
