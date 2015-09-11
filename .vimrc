@@ -49,3 +49,6 @@ set undofile
 set undodir=~/.vim/undodir
 
 set number "line numbers
+
+set laststatus=2 "show airline status bar always
+set guioptions-=T "remove gvim toolbar
