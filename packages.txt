@@ -1812,6 +1812,7 @@ python-apt-common
 python-aptdaemon                                                                
 python-aptdaemon.gtk3widgets                                                    
 python-beautifulsoup                                                            
+python-biopython                                                                
 python-cairo                                                                    
 python-central                                                                  
 python-chardet                                                                  
