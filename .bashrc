@@ -36,3 +36,7 @@ export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
 alias rs="bin/rails server"
 alias rc="bin/rails console"
 alias pacs="aptitude search -F '%p' '~i!~M' > ~/packages.txt"
+
+function f(){
+  find . -name "*$**"
+}
