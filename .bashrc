@@ -43,3 +43,5 @@ alias pacs="aptitude search -F '%p' '~i!~M' > ~/packages.txt"
 function f(){
   find . -name "*$**"
 }
+
+source ~/export.sh

@@ -1,6 +1,7 @@
 tmp/
 pgadmin.log
 igv/
+export.sh
 code/
 Pictures/
 Downloads/
