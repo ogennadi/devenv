@@ -1648,6 +1648,7 @@ manpages
 manpages-dev                                                                    
 maven                                                                           
 mawk                                                                            
+mc                                                                              
 mdm                                                                             
 media-player-info                                                               
 memtest86+                                                                      
