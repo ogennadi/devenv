@@ -52,3 +52,7 @@ set number "line numbers
 
 set laststatus=2 "show airline status bar always
 set guioptions-=T "remove gvim toolbar
+
+" set the 80-character ruler
+:set colorcolumn=81
+:highlight ColorColumn guibg=#2d2d2d ctermbg=246
