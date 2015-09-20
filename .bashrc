@@ -21,6 +21,7 @@ alias cd=cl
 alias g="git status"
 alias ga="git add"
 alias gd="git diff"
+alias gdc="git diff --cached"
 alias gca="git commit -am"
 alias gc="git commit -m"
 alias gpod="git push origin dev"
