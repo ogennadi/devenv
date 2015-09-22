@@ -36,12 +36,14 @@ NeoBundleCheck
 set mouse=a
 colorscheme desert
 
-set expandtab
-set tabstop=2
-set shiftwidth=2
 set incsearch
 set ignorecase
 set smartcase
+
+set smarttab
+set expandtab
+set tabstop=8
+set softtabstop=2
 
 set backupdir=/tmp/
 set directory=/tmp/
