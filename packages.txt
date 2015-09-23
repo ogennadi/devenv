@@ -142,6 +142,7 @@ e2fsprogs
 ecryptfs-utils                                                                  
 ed                                                                              
 eject                                                                           
+emacs                                                                           
 enchant                                                                         
 eog                                                                             
 esound-common                                                                   
