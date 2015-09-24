@@ -28,6 +28,7 @@ alias gpod="git push origin dev"
 alias gpom="git push origin master"
 alias gap="git add -p"
 alias gua="git update-index --assume-unchanged" #just for memorizing's sake
+alias gf="git fetch && git log -p HEAD..origin"
 alias install="sudo apt-get install"
 alias remove="sudo apt-get remove"
 alias show="apt-cache show"
