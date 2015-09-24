@@ -39,6 +39,7 @@ colorscheme desert
 set incsearch
 set ignorecase
 set smartcase
+set gdefault
 
 set smarttab
 set expandtab
