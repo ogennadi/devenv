@@ -1755,6 +1755,8 @@ openjdk-7-jre-lib
 openprinting-ppds                                                               
 openssh-client                                                                  
 openssl                                                                         
+oracle-java8-installer                                                          
+oracle-java8-set-default                                                        
 os-prober                                                                       
 p11-kit                                                                         
 p11-kit-modules                                                                 
