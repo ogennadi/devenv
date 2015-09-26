@@ -1730,6 +1730,7 @@ nemo-folder-color-switcher
 nemo-share                                                                      
 net-tools                                                                       
 netbase                                                                         
+netcat                                                                          
 netcat-openbsd                                                                  
 network-manager                                                                 
 network-manager-gnome                                                           
