@@ -4,7 +4,7 @@ source "${GITAWAREPROMPT}/main.sh"
 export EDITOR=vim
 export PS1="\n\${debian_chroot:+(\$debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\] @ \d - \t\n$ "
 
-export PATH=$PATH:"/Users/oge/bin"
+export PATH=$PATH:"/usr/local/share/idea-IU-141.2735.5/bin:/usr/local/share/IGV_2.3.60"
 
 
 alias ea="$EDITOR ~/.bashrc && source ~/.bashrc"
