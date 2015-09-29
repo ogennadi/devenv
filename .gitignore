@@ -13,6 +13,7 @@ Downloads/
 .slocdata/
 .rbenv/
 .qgis2/
+.psql_history
 .profile
 .pki/
 .pip/
@@ -20,6 +21,7 @@ Downloads/
 .pgadmin_histoqueries
 .pgadmin3
 .pam_environment
+.oracle_jre_usage/
 .npm/
 .mysql
 .mozilla/
@@ -46,4 +48,5 @@ Downloads/
 .bash/
 .aptitude/
 .Xauthority
+.IntelliJIdea14/
 .ICEauthority
