@@ -430,6 +430,7 @@ iso-codes
 iw                                                                              
 java-common                                                                     
 jfsutils                                                                        
+jq                                                                              
 kbd                                                                             
 kerneloops-daemon                                                               
 keyboard-configuration                                                          
