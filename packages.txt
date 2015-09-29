@@ -405,7 +405,6 @@ icedtea-plugin
 ideviceinstaller                                                                
 ifupdown                                                                        
 ifuse                                                                           
-igv                                                                             
 im-config                                                                       
 info                                                                            
 init-system-helpers                                                             
