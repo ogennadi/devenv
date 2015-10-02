@@ -41,6 +41,8 @@ alias rs="bin/rails server"
 alias rc="bin/rails console"
 alias pacs="aptitude search -F '%p' '~i!~M' > ~/packages.txt"
 
+alias msv="cd ~/code/MiSeqValPipeline"
+
 function f(){
   find . -name "*$**"
 }
