@@ -12,7 +12,7 @@ alias ll="ls -lh"
 alias ls="ls --all --color"
 
 function cl(){
-  command cd $* && ls
+  command cd "$@" && ls
 }
 
 alias ack="ack-grep"
