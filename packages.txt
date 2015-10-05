@@ -2028,6 +2028,7 @@ totem-plugins
 totem-plugins-extra                                                             
 transmission-common                                                             
 transmission-gtk                                                                
+tree                                                                            
 tsconf                                                                          
 ttf-dejavu                                                                      
 ttf-dejavu-core                                                                 
