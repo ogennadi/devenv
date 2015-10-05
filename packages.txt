@@ -434,6 +434,7 @@ java-common
 jfsutils                                                                        
 jq                                                                              
 kbd                                                                             
+keepassx                                                                        
 kerneloops-daemon                                                               
 keyboard-configuration                                                          
 keyutils                                                                        
