@@ -108,12 +108,14 @@ dash
 dbus                                                                            
 dbus-x11                                                                        
 dc                                                                              
+dchroot                                                                         
 dconf-gsettings-backend                                                         
 dconf-service                                                                   
 dctrl-tools                                                                     
 debconf                                                                         
 debconf-i18n                                                                    
 debianutils                                                                     
+debootstrap                                                                     
 default-jdk                                                                     
 default-jre                                                                     
 default-jre-headless                                                            
