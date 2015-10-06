@@ -2071,7 +2071,7 @@ util-linux
 uuid-runtime                                                                    
 vbetool                                                                         
 vim-common                                                                      
-vim-gnome                                                                       
+vim-gtk                                                                         
 vim-tiny                                                                        
 vino                                                                            
 virtualbox-guest-dkms                                                           
