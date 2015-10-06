@@ -1752,6 +1752,7 @@ odbcinst
 odbcinst1debian2                                                                
 odbcinst1debian2:i386                                                           
 oneconf-common                                                                  
+openconnect                                                                     
 openjdk-7-jre                                                                   
 openjdk-7-jre-headless                                                          
 openjdk-7-jre-lib                                                               
