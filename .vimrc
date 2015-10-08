@@ -61,3 +61,5 @@ set guioptions-=T "remove gvim toolbar
 " set the 80-character ruler
 set colorcolumn=80
 highlight ColorColumn guibg=#2d2d2d ctermbg=246
+
+set scrolloff=5 "cursor distance from the bottom of the screen
