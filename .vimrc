@@ -19,6 +19,7 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 NeoBundle 'bling/vim-airline' " colorful status bar
 NeoBundle 'ctrlpvim/ctrlp.vim' "fuzzy file searching
 NeoBundle 'ekalinin/Dockerfile.vim'
+NeoBundle 'ntpeters/vim-better-whitespace'
 NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }
 NeoBundle 'tpope/vim-fugitive' "git wrapper
 
