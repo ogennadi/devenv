@@ -116,7 +116,6 @@ debconf
 debconf-i18n                                                                    
 debianutils                                                                     
 debootstrap                                                                     
-default-jdk                                                                     
 default-jre                                                                     
 default-jre-headless                                                            
 desktop-file-utils                                                              
@@ -1717,7 +1716,6 @@ mtools
 mtr-tiny                                                                        
 muffin-common                                                                   
 multiarch-support                                                               
-mysql-workbench                                                                 
 nano                                                                            
 nautilus-data                                                                   
 ncbi-blast+                                                                     
@@ -1947,7 +1945,6 @@ python3-xkit
 python3.4                                                                       
 python3.4-minimal                                                               
 qdbus                                                                           
-qgis                                                                            
 qpdf                                                                            
 qt-at-spi                                                                       
 qtchooser                                                                       
