@@ -1813,6 +1813,7 @@ pulseaudio
 pulseaudio-module-bluetooth                                                     
 pulseaudio-module-x11                                                           
 pulseaudio-utils                                                                
+pwgen                                                                           
 python                                                                          
 python-apt                                                                      
 python-apt-common                                                               
