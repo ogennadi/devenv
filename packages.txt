@@ -1992,6 +1992,7 @@ speech-dispatcher
 speech-dispatcher-audio-plugins                                                 
 sqlite3                                                                         
 ssh-askpass-gnome                                                               
+sshfs                                                                           
 ssl-cert                                                                        
 strace                                                                          
 sublime-text                                                                    
