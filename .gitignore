@@ -18,6 +18,7 @@
 .gksu.lock
 .gnome/
 .gnome2/
+.gnupg/
 .java
 .lesshst
 .linuxmint/
