@@ -45,6 +45,7 @@ alias rc="bin/rails console"
 alias pacs="aptitude search -F '%p' '~i!~M' > ~/packages.txt"
 
 alias msv="cd ~/code/MiSeqValPipeline"
+alias mountsynberc="mkdir -p ~/mnt/synberc && sshfs oge@registry.synberc.org:/ ~/mnt/synberc"
 
 function f(){
   find . -name "*$**"
