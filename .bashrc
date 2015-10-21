@@ -17,7 +17,7 @@ function cl(){
   command cd "$@" && ls
 }
 
-alias ack="ack-grep"
+alias ack="ack-grep -i"
 alias vi=vim
 alias cd=cl
 alias g="git status"
