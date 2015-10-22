@@ -63,3 +63,4 @@ set colorcolumn=80
 highlight ColorColumn guibg=#2d2d2d ctermbg=246
 
 set scrolloff=5 "cursor distance from the bottom of the screen
+set showcmd " show normal mode commands
