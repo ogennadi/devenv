@@ -229,6 +229,7 @@ ghostscript
 ghostscript-x                                                                   
 gimp                                                                            
 gimp-data                                                                       
+gimp-help-en                                                                    
 gir1.2-accounts-1.0                                                             
 gir1.2-accountsservice-1.0                                                      
 gir1.2-atk-1.0                                                                  
@@ -396,6 +397,7 @@ hplip
 hplip-data                                                                      
 hunspell-en-us                                                                  
 hwdata                                                                          
+hyphen-en-us                                                                    
 ia32-libs                                                                       
 ibus-gtk:i386                                                                   
 icedtea-7-jre-jamvm                                                             
@@ -1716,6 +1718,10 @@ mtools
 mtr-tiny                                                                        
 muffin-common                                                                   
 multiarch-support                                                               
+myspell-en-au                                                                   
+myspell-en-gb                                                                   
+myspell-en-za                                                                   
+mythes-en-us                                                                    
 nano                                                                            
 nautilus-data                                                                   
 ncbi-blast+                                                                     
@@ -1754,6 +1760,7 @@ openconnect
 openjdk-7-jre                                                                   
 openjdk-7-jre-headless                                                          
 openjdk-7-jre-lib                                                               
+openoffice.org-hyphenation                                                      
 openprinting-ppds                                                               
 openssh-client                                                                  
 openssl                                                                         
@@ -1977,6 +1984,7 @@ sessioninstaller
 sgml-base                                                                       
 sgml-data                                                                       
 shared-mime-info                                                                
+shim-signed                                                                     
 shutter                                                                         
 signon-keyring-extension                                                        
 signon-plugin-oauth2                                                            
@@ -2019,6 +2027,8 @@ telnet
 thin-client-config-agent                                                        
 thunderbird                                                                     
 thunderbird-gnome-support                                                       
+thunderbird-locale-en                                                           
+thunderbird-locale-en-us                                                        
 time                                                                            
 tomboy                                                                          
 toshset                                                                         
@@ -2084,6 +2094,7 @@ vlc-plugin-notify
 vlc-plugin-pulse                                                                
 wamerican                                                                       
 watershed                                                                       
+wbritish                                                                        
 wget                                                                            
 whiptail                                                                        
 wireless-regdb                                                                  
