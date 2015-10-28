@@ -14,6 +14,7 @@
 .fonts/
 .gconf/
 .gem/
+.gimp-2.8/
 .gitconfig
 .gksu.lock
 .gnome/
@@ -41,6 +42,7 @@
 .rbenv/
 .slocdata/
 .ssh/
+.thumbnails/
 .vim/
 .viminfo
 .xinputrc
