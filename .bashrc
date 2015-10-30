@@ -40,6 +40,7 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
 
+alias bi="bundle install"
 alias rs="bin/rails server"
 alias rc="bin/rails console"
 alias pacs="aptitude search -F '%p' '~i!~M' > ~/packages.txt"
