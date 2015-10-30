@@ -24,6 +24,7 @@ apturl-common
 archdetect-deb                                                                  
 aspell                                                                          
 aspell-en                                                                       
+at                                                                              
 at-spi2-core                                                                    
 avahi-autoipd                                                                   
 avahi-daemon                                                                    
