@@ -53,3 +53,7 @@ function f(){
 }
 
 source ~/export.sh
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/home/oge/.sdkman"
+[[ -s "/home/oge/.sdkman/bin/sdkman-init.sh" ]] && source "/home/oge/.sdkman/bin/sdkman-init.sh"
