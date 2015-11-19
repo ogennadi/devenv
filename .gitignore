@@ -11,6 +11,7 @@
 .config/
 .dbus/
 .dmrc
+.emacs.d/auto-save-list/
 .fonts/
 .gconf/
 .gem/
