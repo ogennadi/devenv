@@ -9,7 +9,6 @@ export PATH=$PATH:"/usr/local/share/idea-IU-141.2735.5/bin:/usr/local/share/IGV_
 
 alias ea="$EDITOR ~/.bashrc && source ~/.bashrc"
 alias ev="$EDITOR ~/.vimrc"
-alias ed="gpg --output /dev/shm/diary diary.gpg  && vim /dev/shm/diary && gpg -c --output diary.gpg /dev/shm/diary && rm /dev/shm/diary"
 alias ll="ls -lh"
 alias ls="ls --color"
 
