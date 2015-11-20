@@ -26,3 +26,10 @@ M-x compile.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+;; Make moving to shell put the prompt on the last line
+(remove-hook 'comint-output-filter-functions
+             'comint-postoutput-scroll-to-bottom)
+
+;; Show line numbers
+(global-linum-mode t)
